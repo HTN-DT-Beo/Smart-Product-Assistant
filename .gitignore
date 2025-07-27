@@ -1,0 +1,19 @@
+# Bỏ qua thư mục chứa dữ liệu và ảnh
+data/
+images/
+
+# Bỏ qua các file mô hình huấn luyện
+*.pt
+*.onnx
+*.pkl
+*.ckpt
+*.h5
+*.tflite
+
+# Bỏ qua các file log và output khác
+runs/
+*.log
+*.csv
+*.json
+
+# Bỏ qua thư mục môi trường ảo nếu có
