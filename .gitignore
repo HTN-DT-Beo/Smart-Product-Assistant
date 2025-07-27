@@ -1,7 +1,6 @@
 # Bỏ qua thư mục chứa dữ liệu và ảnh
 data/
-images/
-
+models/
 # Bỏ qua các file mô hình huấn luyện
 *.pt
 *.onnx
