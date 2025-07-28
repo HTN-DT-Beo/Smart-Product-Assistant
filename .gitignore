@@ -8,7 +8,9 @@ models/
 *.ckpt
 *.h5
 *.tflite
-
+*.env
+__pycache__
+*.pyc
 # Bỏ qua các file log và output khác
 runs/
 *.log
